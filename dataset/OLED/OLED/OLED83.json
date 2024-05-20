@@ -1,0 +1,550 @@
+[
+    {
+        "word": "symphony",
+        "definition": [
+            "a long, complicated piece of music for a large orchestra, in three or four main parts (called movements)"
+        ]
+    },
+    {
+        "word": "opera",
+        "definition": [
+            "a dramatic work in which all or most of the words are sung to music; works of this type as an art form or entertainment",
+            "a company that performs opera; a building in which operas are performed"
+        ]
+    },
+    {
+        "word": "formal",
+        "definition": [
+            "very correct and suitable for official or important occasions",
+            "official; following an agreed or official way of doing things",
+            "received in a school, college or university, with lessons, exams, etc., rather than gained just through practical experience",
+            "connected with the way something is done rather than what is done",
+            "arranged in a regular manner, according to a clear, exact plan"
+        ]
+    },
+    {
+        "word": "informal",
+        "definition": [
+            "relaxed and friendly; not following strict rules of how to behave or do something",
+            "suitable for normal conversation and writing to friends rather than for serious speech and letters",
+            "suitable for wearing at home or when relaxing rather than for a special or an official occasion",
+            "done by individuals on a small scale, especially unofficially or illegally"
+        ]
+    },
+    {
+        "word": "nationalism",
+        "definition": [
+            "the desire by a group of people who share the same ethnic group, culture, language, etc. to form an independent country",
+            "a feeling of loving your country very much and being very proud of it; a feeling that your country is better than any other"
+        ]
+    },
+    {
+        "word": "authoritarianism",
+        "definition": [
+            "the belief that people should obey authority and rules, even when these are unfair or even when this means the loss of personal freedom"
+        ]
+    },
+    {
+        "word": "totalitarianism",
+        "definition": [
+            "the principles and practices of a political system in which there is only one party, which has complete power and control over the people"
+        ]
+    },
+    {
+        "word": "dictatorship",
+        "definition": [
+            "government by a dictator",
+            "a country that is ruled by a dictator"
+        ]
+    },
+    {
+        "word": "dictator",
+        "definition": [
+            "a political leader who has complete power over a country, especially one who has gained it using military force",
+            "a person who behaves as if they have complete power over other people, and tells them what to do"
+        ]
+    },
+    {
+        "word": "nightclub",
+        "definition": [
+            "a place that is open late in the evening where people can go to dance, drink, etc."
+        ]
+    },
+    {
+        "word": "rush",
+        "definition": [
+            "to move or to do something with great speed, often too fast",
+            "to transport or send somebody/something somewhere with great speed",
+            "to do something or to make somebody do something without thinking about it carefully",
+            "to flow strongly",
+            "to try to attack or capture somebody/something suddenly",
+            "to run into somebody who has the ball",
+            "to move forward and gain ground by carrying the ball and not passing it",
+            "to give a lot of attention to somebody, especially to a student because you want them to join your fraternity or sorority",
+            "to be extremely busy; to have too many things to do",
+            "people with little experience try to do the difficult or dangerous things that more experienced people would not consider doing"
+        ]
+    },
+    {
+        "word": "federalism",
+        "definition": [
+            "a federal system of government; belief in a federal system of government"
+        ]
+    },
+    {
+        "word": "matriarchy",
+        "definition": [
+            "a social system that gives power and authority to women rather than men"
+        ]
+    },
+    {
+        "word": "patriarchy",
+        "definition": [
+            "a society, system or country that is ruled or controlled by men"
+        ]
+    },
+    {
+        "word": "reticent",
+        "definition": [
+            "unwilling to tell people about things"
+        ]
+    },
+    {
+        "word": "restrained",
+        "definition": [
+            "showing calm control rather than emotion",
+            "not too brightly coloured or decorated"
+        ]
+    },
+    {
+        "word": "reserved",
+        "definition": [
+            "slow or unwilling to show feelings or express opinions"
+        ]
+    },
+    {
+        "word": "poplar",
+        "definition": [
+            "a tall straight tree with soft wood"
+        ]
+    },
+    {
+        "word": "rutherfordium",
+        "definition": [
+            "a chemical element. Rutherfordium is radioactive and does not exist in nature but is produced artificially when atoms crash into each other."
+        ]
+    },
+    {
+        "word": "wizard",
+        "definition": [
+            "(in stories) a man with magic powers",
+            "a person who is especially good at something",
+            "a program that makes it easy to use another program or perform a task by giving you a series of simple choices"
+        ]
+    },
+    {
+        "word": "sorcerer",
+        "definition": [
+            "(in stories) a man with magic powers, who is helped by evil spirits"
+        ]
+    },
+    {
+        "word": "magician",
+        "definition": [
+            "a person who can do magic tricks",
+            "a person who has magic powers"
+        ]
+    },
+    {
+        "word": "tense",
+        "definition": [
+            "nervous or worried, and unable to relax",
+            "in which people have strong feelings such as worry, anger, etc. that often cannot be expressed openly",
+            "tight rather than relaxed",
+            "stretched tightly",
+            "produced with the muscles of the speech organs stretched tight "
+        ]
+    },
+    {
+        "word": "broadcast",
+        "definition": [
+            "to send out programmes on television or radio",
+            "to tell a lot of people about something"
+        ]
+    },
+    {
+        "word": "transmit",
+        "definition": [
+            "to send an electronic signal, radio or television broadcast, etc.",
+            "to pass something from one person to another",
+            "to allow heat, light, sound, etc. to pass through"
+        ]
+    },
+    {
+        "word": "send",
+        "definition": [
+            "to make something go or be taken to a place, especially by post, email, radio, etc.",
+            "to tell somebody something by sending them a message",
+            "to tell somebody to go somewhere or to do something; to arrange for somebody to go somewhere",
+            "to make something/somebody move quickly or suddenly",
+            "to make somebody behave or react in a particular way",
+            "to tell somebody clearly or rudely to go away",
+            "used to say that you should accept an unpleasant situation or event because you cannot change it"
+        ]
+    },
+    {
+        "word": "ventilate",
+        "definition": [
+            "to allow fresh air to enter and move around a room, building, etc.",
+            "to express your feelings or opinions publicly"
+        ]
+    },
+    {
+        "word": "witch",
+        "definition": [
+            "a woman who is believed to have magic powers, especially to do evil things. In stories, she usually wears a black pointed hat and flies on a broomstick.",
+            "an offensive word for an unpleasant woman",
+            "an unpleasant drink that is a mixture of different things"
+        ]
+    },
+    {
+        "word": "solution",
+        "definition": [
+            "a way of solving a problem or dealing with a difficult situation",
+            "an answer to a puzzle or to a problem in mathematics",
+            "a liquid in which something is dissolved (= mixed in so that it forms part of the liquid)",
+            "the process of dissolving a solid or gas in a liquid"
+        ]
+    },
+    {
+        "word": "awake",
+        "definition": [
+            "not asleep (especially immediately before or after sleeping)"
+        ]
+    },
+    {
+        "word": "ar",
+        "definition": [
+            "Arkansas"
+        ]
+    },
+    {
+        "word": "sphere",
+        "definition": [
+            "a solid figure that is completely round, with every point on its surface at an equal distance from the centre",
+            "any object that is completely round, for example a ball",
+            "an area of activity, influence or interest; a particular section of society",
+            "a region that surrounds a planet, especially the earth"
+        ]
+    },
+    {
+        "word": "domain",
+        "definition": [
+            "an area of knowledge or activity; especially one that somebody is responsible for",
+            "a set of websites on the internet that end with the same group of letters, for example \u2018.com\u2019, \u2018.org\u2019",
+            "lands owned or ruled by a particular person, government, etc., especially in the past",
+            "the range of possible values of a particular variable"
+        ]
+    },
+    {
+        "word": "arena",
+        "definition": [
+            "a place with a flat open area in the middle and seats around it where people can watch sports and entertainment",
+            "an area of activity that interests the public, especially one where there is a lot of opposition between different groups or countries"
+        ]
+    },
+    {
+        "word": "contributor",
+        "definition": [
+            "a person who writes articles for a magazine, book or website, or who talks on a radio or television programme or at a meeting",
+            "a person or thing that provides money or goods to help pay for or support something",
+            "something that helps to cause something"
+        ]
+    },
+    {
+        "word": "migrant",
+        "definition": [
+            "a person who moves from one place to another in order to find work or better living conditions",
+            "a bird or an animal that moves from one place to another according to the season"
+        ]
+    },
+    {
+        "word": "infertile",
+        "definition": [
+            "not able to have babies or produce young",
+            "not able to produce good crops"
+        ]
+    },
+    {
+        "word": "fortify",
+        "definition": [
+            "to make a place more able to resist attack, especially by building high walls",
+            "to make somebody/yourself feel stronger, braver, etc.",
+            "to make a feeling or an attitude stronger",
+            "to increase the strength or quality of food or drink by adding something to it"
+        ]
+    },
+    {
+        "word": "gird",
+        "definition": [
+            "to surround something with something; to fasten something around somebody/something",
+            "to get ready to do something difficult"
+        ]
+    },
+    {
+        "word": "crowd",
+        "definition": [
+            "a large number of people gathered together in a public place, for example in the streets or at a sports game",
+            "a particular group of people",
+            "ordinary people, not special or unusual in any way"
+        ]
+    },
+    {
+        "word": "arrive",
+        "definition": [
+            "to get to a place, especially at the end of a journey",
+            "to be brought to somebody",
+            "to happen or to come, especially when you have been waiting for it",
+            "somebody has become successful"
+        ]
+    },
+    {
+        "word": "equally",
+        "definition": [
+            "to the same degree; in the same or in a similar way",
+            "in equal parts, amounts, etc.",
+            "used to introduce another phrase or idea that adds to and is as important as what you have just said"
+        ]
+    },
+    {
+        "word": "auntie",
+        "definition": [
+            "aunt",
+            "used as a polite way of addressing or referring to an older woman"
+        ]
+    },
+    {
+        "word": "marshal",
+        "definition": [
+            "an officer of the highest rank in the armed forces of some countries",
+            "a person responsible for making sure that public events, especially sports events, take place without any problems, and for controlling crowds",
+            "(in the US) an officer whose job is to put court orders into effect",
+            "(in some US cities) an officer of high rank in a police or fire department"
+        ]
+    },
+    {
+        "word": "endorse",
+        "definition": [
+            "to say publicly that you support a person, statement or course of action",
+            "to say in an advertisement that you use and like a particular product so that other people will want to buy it",
+            "to put details of a driving offence on somebody\u2019s driving record ",
+            "to write your name on the back of a cheque so that it can be paid into a bank account"
+        ]
+    },
+    {
+        "word": "trait",
+        "definition": [
+            "a particular quality in your personality"
+        ]
+    },
+    {
+        "word": "badly",
+        "definition": [
+            "without skill or care",
+            "not successfully",
+            "not in an acceptable way",
+            "used to emphasize how serious a situation or an event is",
+            "used to emphasize how much you want, need, etc. somebody/something",
+            "in a way that makes people get a bad opinion about something",
+            "to feel sorry or ashamed about something "
+        ]
+    },
+    {
+        "word": "immoral",
+        "definition": [
+            "not considered to be good or honest by most people",
+            "not following accepted standards of sexual behaviour"
+        ]
+    },
+    {
+        "word": "bestow",
+        "definition": [
+            "to give something to somebody, especially to show how much they are respected"
+        ]
+    },
+    {
+        "word": "trademark",
+        "definition": [
+            "a name, symbol or design that a company uses for its products and that cannot be used by anyone else",
+            "a special way of behaving or dressing that is typical of somebody and that makes them easily recognized"
+        ]
+    },
+    {
+        "word": "carpet",
+        "definition": [
+            "a piece of thick woven material made of wool, etc., used to cover the floor of a room or stairs; the material used for carpets",
+            "a thick layer of something on the ground",
+            "called to see somebody in authority because you have done something wrong",
+            "to try to stop people from finding out about something wrong, illegal, embarrassing, etc. that has happened or that you have done"
+        ]
+    },
+    {
+        "word": "handbag",
+        "definition": [
+            "a small bag for money, keys, etc., especially one carried by a woman"
+        ]
+    },
+    {
+        "word": "nut",
+        "definition": [
+            "a small hard fruit with a very hard shell that grows on some trees",
+            "a small piece of metal with a hole through the centre that is screwed onto a bolt to hold pieces of wood, parts of machines, etc. together",
+            "a person\u2019s head or brain",
+            "an offensive word for a person who you think is strange or crazy",
+            "a person who is extremely interested in a particular subject, activity, etc.",
+            "a man\u2019s testicles",
+            "to become very angry",
+            "a person who is difficult to deal with or to influence",
+            "a difficult problem or situation to deal with",
+            "the basic practical details of a subject or an activity",
+            "crazy",
+            "to use more force than is necessary"
+        ]
+    },
+    {
+        "word": "testis",
+        "definition": [
+            "a testicle"
+        ]
+    },
+    {
+        "word": "clod",
+        "definition": [
+            "a small piece of earth or mud ",
+            "a stupid person"
+        ]
+    },
+    {
+        "word": "glob",
+        "definition": [
+            "a small amount of a liquid or substance in a round shape"
+        ]
+    },
+    {
+        "word": "lump",
+        "definition": [
+            "a piece of something hard or solid, usually without a particular shape",
+            "a small cube of sugar, used in cups of tea or coffee",
+            "a swelling (= an area that is larger and rounder than normal) under the skin, sometimes a sign of serious illness",
+            "a heavy, lazy or stupid person",
+            "to feel pressure in the throat because you are very angry or emotional",
+            "to accept bad things that happen to you without complaining"
+        ]
+    },
+    {
+        "word": "clump",
+        "definition": [
+            "a small group of things or people very close together, especially trees or plants; a bunch of something such as grass or hair",
+            "the sound made by somebody putting their feet down very heavily"
+        ]
+    },
+    {
+        "word": "chunk",
+        "definition": [
+            "a thick, solid piece that has been cut or broken off something",
+            "a fairly large amount of something",
+            "a phrase or group of words that can be learnt as a unit by somebody who is learning a language. Examples of chunks are \u2018Can I have the bill, please?\u2019 and \u2018Pleased to meet you\u2019.",
+            "to vomit"
+        ]
+    },
+    {
+        "word": "roll",
+        "definition": [
+            "to turn over and over and move in a particular direction; to make a round object do this",
+            "to turn over and over or round and round while remaining in the same place; to make something do this",
+            "to turn over to face a different direction; to make somebody/something do this",
+            "to throw dice in a game",
+            "to move smoothly on wheels or as if on wheels; to make something do this",
+            "to move or flow forward in a steady way",
+            "to make something/yourself into the shape of a ball or tube",
+            "to make a cigarette yourself by putting tobacco on special paper and forming it into a tube",
+            "to fold the edge of a piece of clothing, etc. over and over on itself to make it shorter",
+            "to make something flat by pushing something heavy over it",
+            "to wrap or cover somebody/something/yourself in something",
+            "to move or make something move from side to side",
+            "to make a long continuous sound",
+            "when a machine rolls or somebody rolls it, it operates",
+            "to behave in a particular way",
+            "to have a lot of money",
+            "to make something start happening; to make sure that something continues to happen",
+            "used to say that some people will be punished because of something that has happened",
+            "used to suggest to a group of people that you should all start doing something or going somewhere",
+            "ready to start",
+            "combined in one person or thing",
+            "laughing a lot",
+            "likely to be very shocked or angry",
+            "a person who moves from place to place, job to job, etc. does not have a lot of money, possessions or friends but is free from responsibilities",
+            "to be easy to say or pronounce",
+            "used to say that you want something to happen or arrive soon",
+            "to prepare to work or fight",
+            "to adapt yourself to a difficult situation"
+        ]
+    },
+    {
+        "word": "trust",
+        "definition": [
+            "the belief that somebody/something is good, sincere, honest, etc. and will not try to harm or trick you",
+            "the belief that something is true or correct or that you can rely on it",
+            "an arrangement by which an organization or a group of people has legal control of money or property that has been given to somebody, usually until that person reaches a particular age; an amount of money or property that is controlled in this way",
+            "an organization or a group of people that invests money that is given or lent to it and uses the profits to help a charity",
+            "a group of companies that work together illegally to reduce competition, control prices, etc.",
+            "being taken care of by somebody",
+            "to believe what somebody says even though you do not have any proof or evidence to show that it is true"
+        ]
+    },
+    {
+        "word": "swear",
+        "definition": [
+            "to use rude or offensive language, usually because you are angry",
+            "to make a serious promise to do something",
+            "to promise that you are telling the truth",
+            "to make a public or official promise, especially in court",
+            "to make somebody promise not to tell something to anyone",
+            "to say that something is definitely true",
+            "to often use very rude or offensive language"
+        ]
+    },
+    {
+        "word": "rely",
+        "definition": []
+    },
+    {
+        "word": "tolerate",
+        "definition": [
+            "to allow somebody to do something that you do not agree with or like",
+            "to accept somebody/something that is annoying, unpleasant, etc. without complaining",
+            "to be able to be affected by a drug, difficult conditions, etc. without being harmed"
+        ]
+    },
+    {
+        "word": "raccoon",
+        "definition": [
+            "a small North American animal with grey-brown fur, black marks on its face and a thick tail",
+            "the fur of the raccoon"
+        ]
+    },
+    {
+        "word": "rampart",
+        "definition": [
+            "a high wide wall of stone or earth with a path on top, built around a castle, town, etc. to defend it"
+        ]
+    },
+    {
+        "word": "bulwark",
+        "definition": [
+            "a person or thing that protects or defends something",
+            "a wall built as a defence",
+            "the part of a ship\u2019s side that is above the level of the deck"
+        ]
+    }
+]

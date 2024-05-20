@@ -1,0 +1,415 @@
+[
+    {
+        "word": "sunny",
+        "definition": [
+            "with a lot of bright light from the sun",
+            "cheerful and happy"
+        ]
+    },
+    {
+        "word": "kip",
+        "definition": [
+            "sleep"
+        ]
+    },
+    {
+        "word": "nap",
+        "definition": [
+            "a short sleep, especially during the day",
+            "the short fine threads on the surface of some types of cloth, usually lying in the same direction",
+            "advice given by an expert on which horse is most likely to win a race"
+        ]
+    },
+    {
+        "word": "snooze",
+        "definition": [
+            "to have a short, light sleep, especially during the day and usually not in bed"
+        ]
+    },
+    {
+        "word": "doze",
+        "definition": [
+            "to sleep lightly for a short time"
+        ]
+    },
+    {
+        "word": "siesta",
+        "definition": [
+            "a rest or sleep taken in the early afternoon, especially in hot countries"
+        ]
+    },
+    {
+        "word": "elm",
+        "definition": [
+            "a tall tree with broad leaves",
+            "the hard wood of the elm tree"
+        ]
+    },
+    {
+        "word": "virgin",
+        "definition": [
+            "a person who has never had sex",
+            "the Virgin Mary, mother of Jesus Christ",
+            "a person who has no experience of a particular activity"
+        ]
+    },
+    {
+        "word": "regret",
+        "definition": [
+            "to feel sorry about something you have done or about something that you have not been able to do",
+            "used to say in a polite or formal way that you are sorry or sad about a situation"
+        ]
+    },
+    {
+        "word": "orangutan",
+        "definition": [
+            "a large ape (= an animal like a large monkey with no tail) with long arms and red-brown hair, that lives in Borneo and Sumatra"
+        ]
+    },
+    {
+        "word": "chick",
+        "definition": [
+            "a baby bird, especially a baby chicken",
+            "an offensive way of referring to a young woman"
+        ]
+    },
+    {
+        "word": "homeopathy",
+        "definition": [
+            "a system of treating diseases or conditions using very small amounts of the substance that causes the disease or condition"
+        ]
+    },
+    {
+        "word": "cop",
+        "definition": [
+            "a police officer",
+            "used by somebody who is caught doing something wrong, to say that they admit that they are wrong",
+            "not very good"
+        ]
+    },
+    {
+        "word": "policeman",
+        "definition": [
+            "a male police officer"
+        ]
+    },
+    {
+        "word": "policewoman",
+        "definition": [
+            "a female police officer"
+        ]
+    },
+    {
+        "word": "chess",
+        "definition": [
+            "a game for two people played on a board marked with black and white squares on which each playing piece (representing a king, queen, castle, etc.) is moved according to special rules. The aim is to put the other player\u2019s king in a position from which it cannot escape (= to checkmate it)."
+        ]
+    },
+    {
+        "word": "east",
+        "definition": [
+            "the direction that you look towards to see the sun rise; one of the four main points of the compass",
+            "the eastern part of a country, region or city",
+            "the countries of Asia, especially China, Japan and India",
+            "the Communist countries of Central and Eastern Europe"
+        ]
+    },
+    {
+        "word": "hormonal",
+        "definition": [
+            "connected with hormones (= chemicals produced in the body or in a plant that influence how cells and tissues function)",
+            "affected by hormone changes in your body in a way that makes you feel emotional"
+        ]
+    },
+    {
+        "word": "antidote",
+        "definition": [
+            "a substance that controls the effects of a poison or disease",
+            "anything that takes away the effects of something unpleasant"
+        ]
+    },
+    {
+        "word": "whole",
+        "definition": [
+            "full; complete",
+            "used to emphasize how large or important something is",
+            "not broken or damaged",
+            "very much; a lot",
+            "a large number or amount",
+            "everything; all of something",
+            "a completely different thing"
+        ]
+    },
+    {
+        "word": "dance",
+        "definition": [
+            "a series of movements and steps that are usually performed to music; a particular example of these movements and steps",
+            "the art of dancing, especially for entertainment",
+            "an act of dancing",
+            "a social event at which people dance",
+            "a piece of music for dancing to",
+            "to cause somebody a lot of trouble or worry",
+            "if you make a song and dance about something, you complain or talk about it too much when this is not necessary",
+            "a long explanation about something, or excuse for something"
+        ]
+    },
+    {
+        "word": "co-op",
+        "definition": [
+            "a cooperative shop, society or business"
+        ]
+    },
+    {
+        "word": "atom",
+        "definition": [
+            "the smallest particle of a chemical element that can exist"
+        ]
+    },
+    {
+        "word": "condo",
+        "definition": [
+            "a condominium (= an apartment building or group of houses in which each flat/house is owned by the person living in it but the shared areas are owned by everyone together; a flat/house in such a building or group of houses)"
+        ]
+    },
+    {
+        "word": "hyponym",
+        "definition": [
+            "a word with a particular meaning that is included in the meaning of a more general word, for example \u2018dog\u2019 and \u2018cat\u2019 are hyponyms of \u2018animal\u2019"
+        ]
+    },
+    {
+        "word": "hypernym",
+        "definition": [
+            "a word with a general meaning that includes the meanings of other particular words, for example \u2018fruit\u2019 is the hypernym of \u2018apple\u2019, \u2018orange\u2019, etc."
+        ]
+    },
+    {
+        "word": "stroke",
+        "definition": [
+            "an act of hitting a ball, for example with a bat or racket",
+            "a single movement of the arm when hitting somebody/something",
+            "a single successful action or event",
+            "a sudden serious illness when a blood vessel (= tube) in the brain bursts (= breaks open) or is blocked, which can cause death or the loss of the ability to move or to speak clearly",
+            "any of a series of repeated movements in swimming or rowing",
+            "a style of swimming",
+            "the person who sets the speed at which everyone in a boat rows",
+            "an act of moving your hand gently over a surface, usually several times",
+            "a mark made by moving a pen, brush, etc. once across a surface",
+            "each of the sounds made by a clock or bell giving the hours",
+            "with a single immediate action",
+            "to make somebody make a mistake or hesitate in what they are doing"
+        ]
+    },
+    {
+        "word": "enough",
+        "definition": [
+            "used before plural or uncountable nouns to mean \u2018as many or as much as somebody needs or wants\u2019"
+        ]
+    },
+    {
+        "word": "before",
+        "definition": [
+            "earlier than somebody/something",
+            "used to say that somebody/something is ahead of somebody/something in an order or arrangement",
+            "used to say that somebody/something is in a position in front of somebody/something",
+            "used to say that something is facing somebody in the future",
+            "in the presence of somebody who is listening, watching, etc.",
+            "used to say how somebody reacts when they have to face somebody/something"
+        ]
+    },
+    {
+        "word": "nearly",
+        "definition": [
+            "almost; not quite; not completely",
+            "much less than; not at all",
+            "almost; almost completely"
+        ]
+    },
+    {
+        "word": "measure",
+        "definition": [
+            "to find the size, quantity, etc. of something in standard units",
+            "to be a particular size, length, amount, etc.",
+            "to judge the importance, value or effect of something"
+        ]
+    },
+    {
+        "word": "hard",
+        "definition": [
+            "difficult to do, understand or answer",
+            "full of difficulty and problems, especially because of a lack of money",
+            "needing or using a lot of physical strength or mental effort",
+            "putting a lot of effort or energy into an activity",
+            "done with a lot of strength or force",
+            "solid or stiff and difficult to bend or break",
+            "showing no kind feelings or sympathy",
+            "showing no signs of fear or weakness; ready to fight or compete",
+            "definitely true and based on information that can be proved",
+            "very cold and severe",
+            "strongly alcoholic",
+            "containing calcium and other mineral salts that make mixing with soap difficult",
+            "used to describe a letter c or g when pronounced as in \u2018cat\u2019 or \u2018go\u2019, rather than as in \u2018city\u2019 or \u2018giant\u2019",
+            "to treat or criticize somebody in a very severe or strict way",
+            "to be difficult for or unfair to somebody/something",
+            "to be likely to hurt or damage something",
+            "in a situation where you have to choose between two things, both of which are unpleasant",
+            "to argue in an aggressive way and force somebody to agree on the best possible price or arrangement",
+            "to deliberately make a situation difficult and unpleasant for somebody",
+            "that cannot be changed in any circumstances",
+            "showing no fear, sympathy or kind behaviour",
+            "used as a way of saying that you are sorry about something, usually ironically (= you really mean the opposite)",
+            "difficult to understand or needing a lot of effort",
+            "used to tell somebody that you feel sorry for them",
+            "a difficult problem or situation to deal with",
+            "a person or event that is so good or successful at something that it will be difficult for anyone/anything else coming after them to be as good or successful",
+            "by having an unpleasant experience or by making mistakes",
+            "to have difficulty doing something",
+            "to use more time or energy on a task than is necessary",
+            "used after you have been arguing with somebody or have beaten them in a contest but you would still like to be friendly with them",
+            "to make yourself seem more attractive or interesting by not immediately accepting an invitation to do something",
+            "to consider a problem or possibility very carefully and without hurrying",
+            "needing too much effort"
+        ]
+    },
+    {
+        "word": "decrease",
+        "definition": [
+            "to become smaller in size, number, etc.; to make something smaller in size, number, etc."
+        ]
+    },
+    {
+        "word": "proton",
+        "definition": [
+            "a very small piece of matter (= a substance) with a positive electric charge that forms part of the nucleus (= central part) of an atom"
+        ]
+    },
+    {
+        "word": "cheap",
+        "definition": [
+            "costing little money or less money than you expected",
+            "charging low prices",
+            "low in price and quality",
+            "unpleasant or unkind and rather obvious",
+            "having a low status and therefore not deserving respect",
+            "not liking to spend money",
+            "so good or useful that the cost does not seem too much",
+            "used to say that there is a situation in which it is not thought to be important if people somewhere die or are treated badly",
+            "spending less money than you usually need to spend to do something"
+        ]
+    },
+    {
+        "word": "pair",
+        "definition": [
+            "two things of the same type, especially when they are used or worn together",
+            "an object consisting of two parts that are joined together",
+            "two people who are doing something together or who have a particular relationship",
+            "two animals or birds of the same type that are producing young together",
+            "two horses working together to pull a carriage",
+            "in groups of two objects or people",
+            "used to say that you are too busy to do anything else",
+            "a person who can do, or is doing, a job",
+            "a person that you can trust to do a job well"
+        ]
+    },
+    {
+        "word": "infringement",
+        "definition": [
+            "an act of breaking a law or rule",
+            "an act of limiting somebody's legal rights"
+        ]
+    },
+    {
+        "word": "neutron",
+        "definition": [
+            "a very small piece of matter (= a substance) that carries no electric charge and that forms part of the nucleus (= central part) of an atom"
+        ]
+    },
+    {
+        "word": "rape",
+        "definition": [
+            "the crime of forcing somebody to have sex when they do not want it or are not able to agree to it",
+            "the act of destroying an area or damaging its beauty in a way that seems unnecessary",
+            "a plant with bright yellow flowers, grown as food for farm animals and for its seeds that are used to make oil"
+        ]
+    },
+    {
+        "word": "obituary",
+        "definition": [
+            "an article about somebody\u2019s life and achievements, that is printed in a newspaper soon after they have died"
+        ]
+    },
+    {
+        "word": "discover",
+        "definition": [
+            "to be the first person to become aware that a particular place or thing exists",
+            "to find somebody/something that was hidden or that you did not expect to find",
+            "to find out about something; to find some information about something",
+            "to be the first person to realize that somebody is very good at singing, acting, etc. and help them to become successful and famous"
+        ]
+    },
+    {
+        "word": "blockade",
+        "definition": [
+            "the action of surrounding or closing a place, especially a port, in order to stop people or goods from coming in or out",
+            "a barrier that stops people or vehicles from entering or leaving a place"
+        ]
+    },
+    {
+        "word": "siege",
+        "definition": [
+            "a military operation in which an army tries to capture a town by surrounding it and stopping the supply of food, etc. to the people inside",
+            "a situation in which the police surround a building where people are living or hiding, in order to make them come out",
+            "to begin a siege of a town, building, etc.",
+            "to surround a building, especially in order to speak to or question the person or people living or working there",
+            "surrounded by an army or the police in a siege",
+            "being criticized all the time or put under pressure by problems, questions, etc."
+        ]
+    },
+    {
+        "word": "pandemic",
+        "definition": [
+            "a disease that spreads over a whole country or the whole world"
+        ]
+    },
+    {
+        "word": "alphabet",
+        "definition": [
+            "a set of letters or symbols in a fixed order used for writing a language"
+        ]
+    },
+    {
+        "word": "puma",
+        "definition": [
+            "a large American wild animal of the cat family, with yellow-brown or grey fur"
+        ]
+    },
+    {
+        "word": "cougar",
+        "definition": [
+            "a large American wild animal of the cat family, with yellow-brown or grey fur",
+            "an older woman who seeks a sexual relationship with a much younger man"
+        ]
+    },
+    {
+        "word": "panther",
+        "definition": [
+            "a leopard (= a large wild animal of the cat family), especially a black one",
+            "a large American wild animal of the cat family, with yellow-brown or grey fur"
+        ]
+    },
+    {
+        "word": "painter",
+        "definition": [
+            "a person whose job is painting buildings, walls, etc.",
+            "an artist who paints pictures",
+            "a rope fastened to the front of a boat, used for tying it to a post, ship, etc."
+        ]
+    },
+    {
+        "word": "artist",
+        "definition": [
+            "a person who creates works of art, especially paintings or drawings",
+            "a person who is a professional singer, dancer, actor, etc."
+        ]
+    }
+]
